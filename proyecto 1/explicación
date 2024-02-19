@@ -1,0 +1,4 @@
+He creado un programa muy simple de base de datos de un bloc de notas, mediante LAMMP, usando el phpmyadmin puedo ver la creación de las tablas y los correctos guardados. 
+El programa es muy breve y simple, consiste el identificarte o registrarte, después tendrás 4 opciones crear. Crear, mostrar, eliminar, salir. En eso se basa este proyecto, 
+es simple, ya que solo me baso en asimilar los conceptos aprendidos, no he buscado hacer un gran proyecto. Funciona perfectamente, si sale algún error es que el Gmail o 
+algún nombre que has introducido ya está registrado en la base de datos, y he puesto que sea de carácter único, ahí el problema/ventaja.
